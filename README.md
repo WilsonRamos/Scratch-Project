@@ -1,4 +1,4 @@
-Proyecto de Obejto y Abstraccion de Datos
+Proyecto de Obejeto y Abstraccion de Datos
 
 Alumno : 
-* Wilson Ramos Pacco
+* Wilson, Ramos Pacco
